@@ -971,6 +971,12 @@
         {
          "columns":28,
          "firstgid":2956,
+         "grid":
+            {
+             "height":32,
+             "orientation":"orthogonal",
+             "width":32
+            },
          "image":"tilesets\/DEMO_CandleCathedral.png",
          "imageheight":256,
          "imagewidth":448,
